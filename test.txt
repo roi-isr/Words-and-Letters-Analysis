@@ -1,0 +1,5 @@
+Hello Github ,
+This is a tutorial of word and letter analysis of a project in Python programming language I made by myself. You can watch it and learn from it.
+I will upload this project to Github in the near future.
+Fell free to make an opinion about this project. Any advice is welcome.
+Thank you very much ! It was fun coding this !
