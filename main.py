@@ -3,6 +3,10 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
+
+# start coding:
+
+
 def open_file(path):
     new_file = open(path, "r+")
     return new_file
@@ -23,6 +27,7 @@ def count_letters():
         if k != '\n':
             print("'", k, "'", " appears ", v, " times ", sep="")
     close_file(new_file)
+
 
 def count_words():
     new_dict = dict()
